@@ -1,0 +1,7 @@
+# ビルド生成物
+bin/
+build/
+
+# Visual Studio
+.vs/
+*.user
