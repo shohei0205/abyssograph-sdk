@@ -91,6 +91,10 @@ A blocked DLL is not loaded. It appears under **Help → About → Add-ons** as 
 
 For the load order, how to read the add-on list, and detailed diagnostics when loading fails, see section 8 of [docs/api-reference.en.md](docs/api-reference.en.md).
 
+## Contributing
+
+This repository is a copy exported from the Abyssograph source tree. Pull requests are not accepted here, because the next export would overwrite them. Please open an issue instead.
+
 ## License
 
 This SDK is distributed under the MIT License. See [LICENSE](LICENSE) for details.
@@ -189,6 +193,10 @@ Web サイトなどからダウンロードした DLL は、Windows によって
 ### 関連情報
 
 アドオンの読み込み順序、アドオン一覧の見方、および読み込みに失敗した場合の詳細な診断については、[docs/api-reference.ja.md](docs/api-reference.ja.md) の第 8 章を参照してください。
+
+## 修正の提案について
+
+このリポジトリは Abyssograph 本体から書き出した写しです。プルリクエストはマージしても次回の書き出しで失われるため、受け付けていません。修正の提案や不具合の報告は Issue へお寄せください。
 
 ## ライセンス
 
